@@ -6,6 +6,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BE_2025.DataAccess", "BE_20
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BE_2025.Common", "BE_2025.Common\BE_2025.Common.csproj", "{940D7E3F-27F6-419A-B964-37A180B58D51}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DateTime", "DateTime", "{EED75C52-EC4C-4083-A6B5-BF68BEB63780}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateTime", "DateTime\DateTime.csproj", "{54961066-312E-409C-8C09-FBBFC34A8655}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +28,12 @@ Global
 		{940D7E3F-27F6-419A-B964-37A180B58D51}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{940D7E3F-27F6-419A-B964-37A180B58D51}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{940D7E3F-27F6-419A-B964-37A180B58D51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54961066-312E-409C-8C09-FBBFC34A8655}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54961066-312E-409C-8C09-FBBFC34A8655}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54961066-312E-409C-8C09-FBBFC34A8655}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54961066-312E-409C-8C09-FBBFC34A8655}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{54961066-312E-409C-8C09-FBBFC34A8655} = {EED75C52-EC4C-4083-A6B5-BF68BEB63780}
 	EndGlobalSection
 EndGlobal
