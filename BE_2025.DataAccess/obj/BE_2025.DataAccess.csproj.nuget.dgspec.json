@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/tuanminh/RiderProjects/BE_2025/BE_2025.DataAccess/BE_2025.DataAccess.csproj": {}
+    "/Users/tuanminh/Desktop/rider/Net-Core-HBLAB-/BE_2025.DataAccess/BE_2025.DataAccess.csproj": {}
   },
   "projects": {
-    "/Users/tuanminh/RiderProjects/BE_2025/BE_2025.Common/BE_2025.Common.csproj": {
+    "/Users/tuanminh/Desktop/rider/Net-Core-HBLAB-/BE_2025.Common/BE_2025.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/tuanminh/RiderProjects/BE_2025/BE_2025.Common/BE_2025.Common.csproj",
+        "projectUniqueName": "/Users/tuanminh/Desktop/rider/Net-Core-HBLAB-/BE_2025.Common/BE_2025.Common.csproj",
         "projectName": "BE_2025.Common",
-        "projectPath": "/Users/tuanminh/RiderProjects/BE_2025/BE_2025.Common/BE_2025.Common.csproj",
+        "projectPath": "/Users/tuanminh/Desktop/rider/Net-Core-HBLAB-/BE_2025.Common/BE_2025.Common.csproj",
         "packagesPath": "/Users/tuanminh/.nuget/packages/",
-        "outputPath": "/Users/tuanminh/RiderProjects/BE_2025/BE_2025.Common/obj/",
+        "outputPath": "/Users/tuanminh/Desktop/rider/Net-Core-HBLAB-/BE_2025.Common/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/tuanminh/.nuget/NuGet/NuGet.Config"
@@ -62,14 +62,14 @@
         }
       }
     },
-    "/Users/tuanminh/RiderProjects/BE_2025/BE_2025.DataAccess/BE_2025.DataAccess.csproj": {
+    "/Users/tuanminh/Desktop/rider/Net-Core-HBLAB-/BE_2025.DataAccess/BE_2025.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/tuanminh/RiderProjects/BE_2025/BE_2025.DataAccess/BE_2025.DataAccess.csproj",
+        "projectUniqueName": "/Users/tuanminh/Desktop/rider/Net-Core-HBLAB-/BE_2025.DataAccess/BE_2025.DataAccess.csproj",
         "projectName": "BE_2025.DataAccess",
-        "projectPath": "/Users/tuanminh/RiderProjects/BE_2025/BE_2025.DataAccess/BE_2025.DataAccess.csproj",
+        "projectPath": "/Users/tuanminh/Desktop/rider/Net-Core-HBLAB-/BE_2025.DataAccess/BE_2025.DataAccess.csproj",
         "packagesPath": "/Users/tuanminh/.nuget/packages/",
-        "outputPath": "/Users/tuanminh/RiderProjects/BE_2025/BE_2025.DataAccess/obj/",
+        "outputPath": "/Users/tuanminh/Desktop/rider/Net-Core-HBLAB-/BE_2025.DataAccess/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/tuanminh/.nuget/NuGet/NuGet.Config"
@@ -84,8 +84,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/Users/tuanminh/RiderProjects/BE_2025/BE_2025.Common/BE_2025.Common.csproj": {
-                "projectPath": "/Users/tuanminh/RiderProjects/BE_2025/BE_2025.Common/BE_2025.Common.csproj"
+              "/Users/tuanminh/Desktop/rider/Net-Core-HBLAB-/BE_2025.Common/BE_2025.Common.csproj": {
+                "projectPath": "/Users/tuanminh/Desktop/rider/Net-Core-HBLAB-/BE_2025.Common/BE_2025.Common.csproj"
               }
             }
           }

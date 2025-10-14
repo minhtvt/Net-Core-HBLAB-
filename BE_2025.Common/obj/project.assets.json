@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/tuanminh/RiderProjects/BE_2025/BE_2025.Common/BE_2025.Common.csproj",
+      "projectUniqueName": "/Users/tuanminh/Desktop/rider/Net-Core-HBLAB-/BE_2025.Common/BE_2025.Common.csproj",
       "projectName": "BE_2025.Common",
-      "projectPath": "/Users/tuanminh/RiderProjects/BE_2025/BE_2025.Common/BE_2025.Common.csproj",
+      "projectPath": "/Users/tuanminh/Desktop/rider/Net-Core-HBLAB-/BE_2025.Common/BE_2025.Common.csproj",
       "packagesPath": "/Users/tuanminh/.nuget/packages/",
-      "outputPath": "/Users/tuanminh/RiderProjects/BE_2025/BE_2025.Common/obj/",
+      "outputPath": "/Users/tuanminh/Desktop/rider/Net-Core-HBLAB-/BE_2025.Common/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/tuanminh/.nuget/NuGet/NuGet.Config"

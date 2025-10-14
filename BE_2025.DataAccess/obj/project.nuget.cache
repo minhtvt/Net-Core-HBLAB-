@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hLanVGHH7F0=",
+  "dgSpecHash": "xNdJbxbGyls=",
   "success": true,
-  "projectFilePath": "/Users/tuanminh/RiderProjects/BE_2025/BE_2025.DataAccess/BE_2025.DataAccess.csproj",
+  "projectFilePath": "/Users/tuanminh/Desktop/rider/Net-Core-HBLAB-/BE_2025.DataAccess/BE_2025.DataAccess.csproj",
   "expectedPackageFiles": [
     "/Users/tuanminh/.nuget/packages/epplus/7.0.5/epplus.7.0.5.nupkg.sha512",
     "/Users/tuanminh/.nuget/packages/epplus.interfaces/6.1.1/epplus.interfaces.6.1.1.nupkg.sha512",

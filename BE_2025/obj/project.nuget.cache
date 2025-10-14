@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nlnIFFK2JWE=",
+  "dgSpecHash": "EC+hNVEF9P8=",
   "success": true,
-  "projectFilePath": "/Users/tuanminh/RiderProjects/BE_2025/BE_2025/BE_2025.csproj",
+  "projectFilePath": "/Users/tuanminh/Desktop/rider/Net-Core-HBLAB-/BE_2025/BE_2025.csproj",
   "expectedPackageFiles": [
     "/Users/tuanminh/.nuget/packages/epplus/7.0.5/epplus.7.0.5.nupkg.sha512",
     "/Users/tuanminh/.nuget/packages/epplus.interfaces/6.1.1/epplus.interfaces.6.1.1.nupkg.sha512",
