@@ -1,0 +1,9 @@
+# Build folders
+bin/
+obj/
+
+# Rider / JetBrains project files
+.idea/
+
+# macOS system files
+.DS_Store
