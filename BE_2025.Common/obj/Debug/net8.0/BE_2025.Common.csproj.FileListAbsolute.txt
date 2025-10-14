@@ -1,0 +1,11 @@
+/Users/tuanminh/RiderProjects/BE_2025/BE_2025.Common/bin/Debug/net8.0/BE_2025.Common.deps.json
+/Users/tuanminh/RiderProjects/BE_2025/BE_2025.Common/bin/Debug/net8.0/BE_2025.Common.dll
+/Users/tuanminh/RiderProjects/BE_2025/BE_2025.Common/bin/Debug/net8.0/BE_2025.Common.pdb
+/Users/tuanminh/RiderProjects/BE_2025/BE_2025.Common/obj/Debug/net8.0/BE_2025.Common.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tuanminh/RiderProjects/BE_2025/BE_2025.Common/obj/Debug/net8.0/BE_2025.Common.AssemblyInfoInputs.cache
+/Users/tuanminh/RiderProjects/BE_2025/BE_2025.Common/obj/Debug/net8.0/BE_2025.Common.AssemblyInfo.cs
+/Users/tuanminh/RiderProjects/BE_2025/BE_2025.Common/obj/Debug/net8.0/BE_2025.Common.csproj.CoreCompileInputs.cache
+/Users/tuanminh/RiderProjects/BE_2025/BE_2025.Common/obj/Debug/net8.0/BE_2025.Common.dll
+/Users/tuanminh/RiderProjects/BE_2025/BE_2025.Common/obj/Debug/net8.0/refint/BE_2025.Common.dll
+/Users/tuanminh/RiderProjects/BE_2025/BE_2025.Common/obj/Debug/net8.0/BE_2025.Common.pdb
+/Users/tuanminh/RiderProjects/BE_2025/BE_2025.Common/obj/Debug/net8.0/ref/BE_2025.Common.dll

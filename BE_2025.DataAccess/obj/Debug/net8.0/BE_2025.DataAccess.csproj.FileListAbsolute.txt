@@ -1,0 +1,15 @@
+/Users/tuanminh/RiderProjects/BE_2025/BE_2025.DataAccess/bin/Debug/net8.0/BE_2025.DataAccess.deps.json
+/Users/tuanminh/RiderProjects/BE_2025/BE_2025.DataAccess/bin/Debug/net8.0/BE_2025.DataAccess.dll
+/Users/tuanminh/RiderProjects/BE_2025/BE_2025.DataAccess/bin/Debug/net8.0/BE_2025.DataAccess.pdb
+/Users/tuanminh/RiderProjects/BE_2025/BE_2025.DataAccess/bin/Debug/net8.0/BE_2025.Common.dll
+/Users/tuanminh/RiderProjects/BE_2025/BE_2025.DataAccess/bin/Debug/net8.0/BE_2025.Common.pdb
+/Users/tuanminh/RiderProjects/BE_2025/BE_2025.DataAccess/obj/Debug/net8.0/BE_2025.DataAccess.csproj.AssemblyReference.cache
+/Users/tuanminh/RiderProjects/BE_2025/BE_2025.DataAccess/obj/Debug/net8.0/BE_2025.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tuanminh/RiderProjects/BE_2025/BE_2025.DataAccess/obj/Debug/net8.0/BE_2025.DataAccess.AssemblyInfoInputs.cache
+/Users/tuanminh/RiderProjects/BE_2025/BE_2025.DataAccess/obj/Debug/net8.0/BE_2025.DataAccess.AssemblyInfo.cs
+/Users/tuanminh/RiderProjects/BE_2025/BE_2025.DataAccess/obj/Debug/net8.0/BE_2025.DataAccess.csproj.CoreCompileInputs.cache
+/Users/tuanminh/RiderProjects/BE_2025/BE_2025.DataAccess/obj/Debug/net8.0/BE_2025..1AE9635F.Up2Date
+/Users/tuanminh/RiderProjects/BE_2025/BE_2025.DataAccess/obj/Debug/net8.0/BE_2025.DataAccess.dll
+/Users/tuanminh/RiderProjects/BE_2025/BE_2025.DataAccess/obj/Debug/net8.0/refint/BE_2025.DataAccess.dll
+/Users/tuanminh/RiderProjects/BE_2025/BE_2025.DataAccess/obj/Debug/net8.0/BE_2025.DataAccess.pdb
+/Users/tuanminh/RiderProjects/BE_2025/BE_2025.DataAccess/obj/Debug/net8.0/ref/BE_2025.DataAccess.dll
