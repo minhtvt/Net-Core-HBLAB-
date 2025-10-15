@@ -53,6 +53,8 @@ Viết chương trình **C#** sử dụng `struct` để quản lý nhân sự c
 3. **Xuất danh sách lịch sử tương tác ra file Excel**  
    - Theo **tuần** hoặc **tháng**
 
+---
+
 ### Bài 3: Cấu trúc dữ liệu Stack(Generic)
 
 ### MyStack<T>
