@@ -52,3 +52,42 @@ Viết chương trình **C#** sử dụng `struct` để quản lý nhân sự c
    - Gọi điện, gửi mail, gặp khách hàng, v.v.  
 3. **Xuất danh sách lịch sử tương tác ra file Excel**  
    - Theo **tuần** hoặc **tháng**
+
+### Bài 3: Cấu trúc dữ liệu Stack(Generic)
+
+### MyStack<T>
+- Push(T item): Thêm một phần tử vào đỉnh stack
+- Pop(): Lấy và xóa phần tử ở đỉnh stack
+- Peek(): Lấy phần tử ở đỉnh stack nhưng không xóa
+- IsEmpty(): Kiểm tra stack có rỗng hay không
+
+---
+
+### Chức năng yêu cầu
+1. **Tạo lớp generic MyStack<T> mô phỏng cấu trúc dữ liệu Stack**
+2. **Kiểm tra hoạt động của stack với nhiều kiểu dữ liệu khác nhau:**
+   - int
+   - string
+   - doube
+   - hoặc lớp tự định nghĩa như Student
+4. **Hiển thị kết quả từng thao tác (Push, Pop, Peek, IsEmpty) trên màn hình console**
+
+---
+
+
+## Bài 4: Quản lý sinh viên với Dictionary và LINQ
+
+### Class Student
+   - ID
+   - Name
+   - Grade
+
+---
+
+### Chức năng yêu cầu
+1. **Tạo Dictionary<int, Student> để quản lý sinh viên theo ID**  
+2. **Thêm một số sinh viên mẫu vào dictionary**  
+3. **Thực hiện các truy vấn LINQ**  
+   - Tìm sinh viên có điểm cao nhất
+   - Lấy danh sách tên sinh viên có điểm lớn hơn giá trị cho trước (X)
+   - Đếm số sinh viên đạt điểm trung bình trở lên (≥ 5.0)
